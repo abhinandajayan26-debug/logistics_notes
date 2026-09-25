@@ -1,3 +1,2 @@
 # logistics_notes
-- fhgf
-- ghgh
+![](dd.png)
